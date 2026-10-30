@@ -1,4 +1,3 @@
-﻿# code4baddies
 # AarogyaPath - HealthTech Platform (Patient and Doctor)
 
 AarogyaPath is a dual-portal healthcare platform built for rural and low-bandwidth environments.  
